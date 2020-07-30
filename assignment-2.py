@@ -312,8 +312,5 @@ create_graph()
 
 ################
 brach3
-cndncids
-cnwuicn
-cndis cs
-cdisnc
+changes for commit -3cdisnc
 #######################
